@@ -1,8 +1,8 @@
 ### Hello World! I am Felipe.
 
 - 🔭 I’m currently working with back-end.
-- 🌱 I’m currently studying Python, HTML and CSS.
-- 💬 Any doubts about my project feel free to ask.
+- 🌱 I’m studying Python, HTML and CSS.
+- 💬 Any doubts about any project feel free to ask.
 - 📫 E-mail: Soon...
 
 ![Ren's GitHub stats](https://github-readme-stats.vercel.app/api?username=rendeviluke&show_icons=true&theme=rose_pine)<br>
