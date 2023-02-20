@@ -1,7 +1,7 @@
 ### Hello World! I am Felipe.
 
 - 🔭 I’m currently working with back-end.
-- 🌱 I’m studying Python, HTML and CSS.
+- 🌱 I’m studying Python, HTML and CSS. Also, I know a bit of Lua, C and C++ =)
 - 💬 Any doubts about any project feel free to ask.
 - 📫 E-mail: Soon...
 
