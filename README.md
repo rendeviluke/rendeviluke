@@ -13,3 +13,8 @@
   <img align="center" alt="Ren-Py" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Ren-Py" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Ren-Py" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+    <img alt="github-snake" src="github-snake.svg">
+  </picture>
