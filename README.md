@@ -10,7 +10,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rendeviluke&layout=compact&theme=rose_pine)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ren-Py" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Ren-Py" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Ren-Py" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">  
-
+  <p>Tools</p>
+  <img align="center" width=32px height=32px alt="Ren-Py" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" width=32px height=32px alt="Ren-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" width=32px height=32px alt="Ren-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <img align="center" width=32px height=32px alt="Ren-C" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">  
+  <img align="center" width=32px height=32px alt="Ren-Git" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">  
+  
