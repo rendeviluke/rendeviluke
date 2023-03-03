@@ -4,7 +4,7 @@
 - 🌱 I’m studying Python, HTML and CSS.
 - 💻 Also, I know a bit of Lua, C and C++  =)
 - 💬 Any doubts feel free to ask.
-- 🚀 Portfolio: <a href="https://rendeviluke.netlify.app" target="_blank" alt="Link to portfolio">Landing page</a>
+- 🚀 Portfolio: <a href="https://rendeviluke.netlify.app" target="_blank">Landing page</a>
 
 
 
