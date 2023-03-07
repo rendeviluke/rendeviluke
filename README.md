@@ -1,9 +1,13 @@
-<img style="align-items: center;" width=908px height=368px src="https://i.imgur.com/qcdRBzu.png">
+<div align="center">
+<img width=908px height=368px src="https://i.imgur.com/qcdRBzu.png">
+  <h2>I'm Felipe, back-end developer</h2>
 
-### Hello I'm Felipe, back-end developer
+<p align="center">
+  <img src="https://github.com/rendeviluke/rendeviluke/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+ 
 
-
-<h2>About me / Sobre mim</h2>
+<h3>About me / Sobre mim</h3>
 
 <h4>PT</h4>
 <p>Seja bem-vindo(a) ao meu repositório. Sou desenvolvedor back-end, mas tenho noções de front-end também. Atualmente estou fazendo Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas, fora isso estou cursando desenvolvimento de software na Udemy. Tenho projetos a serem realizados principalmente com a linguagem Python, mas isso no momento fica para outra hora.</p>
@@ -19,11 +23,10 @@
 <h3>Github Stats</h3>
 
 ![Ren's GitHub stats](https://github-readme-stats.vercel.app/api?username=rendeviluke&show_icons=true&theme=rose_pine&hide=contribs,prs)
-<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rendeviluke&layout=compact&theme=rose_pine)
 
 <h2></h2>
-
 
 <h3>Languages</h3>
 
@@ -52,4 +55,4 @@
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+</div>
