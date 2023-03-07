@@ -2,18 +2,27 @@
 
 ### Hello I'm Felipe, back-end developer
 
-<h3>Sobre mim</h3>
-<p style="text-align: center;">Seja bem-vindo(a) ao meu repositório. Sou desenvolvedor back-end, mas tenho noções de front-end também. Atualmente estou fazendo Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas, fora isso estou cursando desenvolvimento de software na Udemy. Tenho projetos a serem realizados principalmente com a linguagem Python, mas isso no momento fica para outra hora.</p>
+
+<h2>About me / Sobre mim</h2>
+
+<h4>PT</h4>
+<p>Seja bem-vindo(a) ao meu repositório. Sou desenvolvedor back-end, mas tenho noções de front-end também. Atualmente estou fazendo Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas, fora isso estou cursando desenvolvimento de software na Udemy. Tenho projetos a serem realizados principalmente com a linguagem Python, mas isso no momento fica para outra hora.</p>
+
+<h4>EN</h4>
+<p>Welcome to my repository. I'm a back-end developer, but I have some front-end skills too. I'm currently taking a Higher Technology Course in Systems Analysis and Development, other than that I'm studying software development at Udemy. I have projects to be carried out mainly with the Python language, but that is for another time at the moment.</p>
 <br>
 
-Welcome to my github repository. I'm a back-end developer
-- 🚀 Portfolio: <a style="text-align: center;" href="https://rendeviluke.netlify.app" target="_blank">Landing page</a>
-
+🚀 Portfolio: <a style="text-align: center;" href="https://rendeviluke.netlify.app" target="_blank">Landing page</a>
+<h2></h2>
 
 
 <h3>Github Stats</h3>
 
-![Ren's GitHub stats](https://github-readme-stats.vercel.app/api?username=rendeviluke&show_icons=true&theme=rose_pine&hide=contribs,prs)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rendeviluke&layout=compact&theme=rose_pine)
+![Ren's GitHub stats](https://github-readme-stats.vercel.app/api?username=rendeviluke&show_icons=true&theme=rose_pine&hide=contribs,prs)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rendeviluke&layout=compact&theme=rose_pine)
+
+<h2></h2>
 
 
 <h3>Languages</h3>
