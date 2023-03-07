@@ -1,10 +1,6 @@
 <div align="center">
 <img width=908px height=368px src="https://i.imgur.com/qcdRBzu.png">
   <h2>I'm Felipe, back-end developer</h2>
-
-<p align="center">
-  <img src="https://github.com/rendeviluke/rendeviluke/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
  
 
 <h3>About me / Sobre mim</h3>
