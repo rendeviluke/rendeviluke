@@ -1,6 +1,5 @@
 <div align="center">
-<img width=908px height=368px src="https://i.imgur.com/qcdRBzu.png">
-  <h2>I'm Felipe, back-end developer</h2>
+  <h2>Hello I'm Felipe, back-end developer</h2>
  
 
 <h3>About me / Sobre mim</h3>
