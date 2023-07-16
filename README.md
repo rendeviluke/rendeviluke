@@ -1,17 +1,7 @@
 <div align="center">
-  <h2>Hello I'm Felipe, back-end developer</h2>
- 
+  <h2>Back-end developer</h2>
 
-<h3>About me / Sobre mim</h3>
-
-<h4>PT</h4>
-<p>Seja bem-vindo(a) ao meu repositório. Sou desenvolvedor back-end, mas tenho noções de front-end também. Atualmente estou fazendo Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas, fora isso estou cursando desenvolvimento de software na Udemy. Tenho projetos a serem realizados principalmente com a linguagem Python, mas isso no momento fica para outra hora.</p>
-
-<h4>EN</h4>
-<p>Welcome to my repository. I'm a back-end developer, but I have some front-end skills too. I'm currently taking a Higher Technology Course in Systems Analysis and Development, other than that I'm studying software development at Udemy. I have projects to be carried out mainly with the Python language, but that is for another time at the moment.</p>
-<br>
-
-🚀 Portfolio: <a style="text-align: center;" href="https://rendeviluke.netlify.app" target="_blank">Landing page</a>
+  Portfolio: <a style="text-align: center;" href="https://rendeviluke.netlify.app" target="_blank">Landing page</a>
 <h2></h2>
 
 
