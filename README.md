@@ -1,10 +1,8 @@
 <div align="center">
-  <h2>Back-end developer</h2>
-
-  Portfolio: <a style="text-align: center;" href="https://rendeviluke.netlify.app" target="_blank">Landing page</a>
-<h2></h2>
-
-
+<p>
+  Hello, I'm a back-end developer. I'm a C/C++ enjoyer, feel free to ask me about future projects.
+  <br><br>Also, I have a <a style="text-align: center;" href="https://rendeviluke.netlify.app" target="_blank">Landing page</a> project.
+</p>
 <h3>Github Stats</h3>
 
 ![Ren's GitHub stats](https://github-readme-stats.vercel.app/api?username=rendeviluke&show_icons=true&theme=rose_pine&hide=contribs,prs)
