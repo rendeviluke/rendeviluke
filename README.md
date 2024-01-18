@@ -1,7 +1,7 @@
 <div align="center">
 <p>
   Hello, I'm a back-end developer. I'm a C/C++ enjoyer, feel free to ask me about future projects.
-  <br><br>Also, I have a <a style="text-align: center;" href="https://rendeviluke.netlify.app" target="_blank">Landing page</a> project.
+  <br><br>Also, I have a <a style="text-align: center;" href="https://rendeviluke.github.io/lipibtw" target="_blank">Landing page</a> project.
 </p>
 <h3>Github Stats</h3>
 
