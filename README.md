@@ -1,6 +1,6 @@
 <div align="center">
 <p>
-  Hello, I'm a back-end developer. I'm a C/C++ enjoyer, feel free to ask me about future projects.
+  Hello, I'm a fullstack developer and C/C++ enthusiast. I'm studying HTML, CSS and Bootstrap. Next step is learn Javascript, nodeJS, expressJS and react.
   <br><br>Also, I have a <a style="text-align: center;" href="https://rendeviluke.github.io/lipibtw" target="_blank">Landing page</a> project.
 </p>
 <h3>Github Stats</h3>
@@ -8,8 +8,6 @@
 ![Ren's GitHub stats](https://github-readme-stats.vercel.app/api?username=rendeviluke&show_icons=true&theme=rose_pine&hide=contribs,prs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rendeviluke&layout=compact&theme=rose_pine)
-
-<h2></h2>
 
 <h3>Languages</h3>
 
