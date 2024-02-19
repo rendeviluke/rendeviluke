@@ -1,6 +1,6 @@
 <div align="left">
 <p>
-  Hello, I'm a fullstack developer and C/C++ enthusiast. I'm studying HTML, CSS and Bootstrap. Next step is learn Javascript, nodeJS, expressJS and react.
+  Hello, I'm a fullstack developer and C/C++ enthusiast. I'm currently studying Javascript, Node and Express. Next step is learn more about databases and start studying react.
   <br><br>Also, I have a <a style="text-align: center;" href="https://rendeviluke.github.io/lipibtw" target="_blank">Landing page</a> project.
 </p>
 <h3>Github Stats</h3>
