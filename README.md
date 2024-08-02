@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 <p>
   Hello, I'm a fullstack developer and C/C++ enthusiast. I'm currently studying Javascript, Node and Express. Next step is learn more about databases and start studying react.
   <br><br><a style="text-align: center;" href="https://rendeviluke.github.io/lipibtw" target="_blank">My page</a>
